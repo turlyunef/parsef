@@ -43,3 +43,5 @@
 - **Библиотека парсинга**: Jsoup
 - **База данных**: MongoDB
 - **Система обмена сообщениями**: Apache Kafka
+
+![Architecture](https://github.com/turlyunef/parsef/raw/master/Parsef_architecture.jpg)
