@@ -1,5 +1,6 @@
-package com.turlyunef.parsef.service
+package com.turlyunef.parsef.service.kafka
 
+import com.turlyunef.parsef.service.kafka.KafkaProducer
 import org.springframework.stereotype.Service
 
 /**

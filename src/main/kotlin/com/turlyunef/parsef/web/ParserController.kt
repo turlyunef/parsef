@@ -1,6 +1,6 @@
 package com.turlyunef.parsef.web
 
-import com.turlyunef.parsef.service.ParseManager
+import com.turlyunef.parsef.service.parse.ParseManager
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.http.HttpStatus
 import org.springframework.http.MediaType

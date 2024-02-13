@@ -1,15 +1,15 @@
-package com.turlyunef.parsef.service
+package com.turlyunef.parsef.service.kafka
 
 import org.springframework.stereotype.Service
 
 /**
- * Интерфейс KafkaProducer определяет метод для отправки данных в Kafka-топик.
+ * Интерфейс для отправки данных в Kafka-топик.
  */
 @Service
 interface KafkaProducer {
 
     /**
-     * Метод sendToTopic отправляет данные в Kafka-топик.
+     * Отправляет данные в Kafka-топик.
      * @param topicName Название топика, в который необходимо отправить данные.
      * @param message Сообщение для отправки в топик.
      */
